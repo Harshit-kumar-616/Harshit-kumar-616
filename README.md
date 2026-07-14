@@ -38,7 +38,7 @@ MeetSpace is a full-stack, real-time online video meeting application built for 
 
 <div align="center">
 
-![MeetSpace Pin](https://github-readme-stats.vercel.app/api/pin/?username=Harshit-kumar-616&repo=Video-Conferencing-App&theme=nord&border_color=7dd3fc&title_color=7dd3fc)
+![MeetSpace Pin](https://github-stats-extended.vercel.app/api/pin/?username=Harshit-kumar-616&repo=Video-Conferencing-App&theme=nord&border_color=7dd3fc&title_color=7dd3fc)
 
 </div>
 
@@ -58,7 +58,7 @@ Unlike standard timers, Smart Study Tracker knows that not all subjects are crea
 
 <div align="center">
 
-![Smart Study Tracker Pin](https://github-readme-stats.vercel.app/api/pin/?username=Harshit-kumar-616&repo=Smart-Study-Tracker&theme=nord&border_color=7dd3fc&title_color=7dd3fc)
+![Smart Study Tracker Pin](https://github-stats-extended.vercel.app/api/pin/?username=Harshit-kumar-616&repo=Smart-Study-Tracker&theme=nord&border_color=7dd3fc&title_color=7dd3fc)
 
 </div>
 
@@ -90,8 +90,8 @@ Unlike standard timers, Smart Study Tracker knows that not all subjects are crea
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harshit-kumar-616&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=7dd3fc&icon_color=7dd3fc)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshit-kumar-616&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=7dd3fc)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Harshit-kumar-616&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=7dd3fc&icon_color=7dd3fc)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=Harshit-kumar-616&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=7dd3fc)
 
 ![Streak Stats](https://streak-stats.demolab.com/?user=Harshit-kumar-616&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc)
 
@@ -101,7 +101,7 @@ Unlike standard timers, Smart Study Tracker knows that not all subjects are crea
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Harshit-kumar-616&theme=nord&no-frame=true&no-bg=true&margin-w=10)
+![Trophies](https://github-profile-trophy-liard-delta.vercel.app/?username=Harshit-kumar-616&theme=nord&no-frame=true&no-bg=true&margin-w=10)
 
 </div>
 
