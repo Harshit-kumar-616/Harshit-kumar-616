@@ -97,14 +97,6 @@ Unlike standard timers, Smart Study Tracker knows that not all subjects are crea
 
 </div>
 
-### 🏆 Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy-liard-delta.vercel.app/?username=Harshit-kumar-616&theme=nord&no-frame=true&no-bg=true&margin-w=10)
-
-</div>
-
 ### 📈 Contribution Activity
 
 <div align="center">
