@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Waving header banner -->
-![Header](https://capsule-render.com/api?type=waving&color=7dd3fc&height=200&section=header&text=Harshit%20Kumar&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=55&descSize=20)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=200&section=header&text=Harshit%20Kumar&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=55&descSize=20)
 
 <!-- Typing SVG -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Building+MeetSpace+%F0%9F%8E%A5;Building+Smart+Study+Tracker+%F0%9F%93%9A)](https://git.io/typing-svg)
@@ -124,4 +124,4 @@ Unlike standard timers, Smart Study Tracker knows that not all subjects are crea
 </div>
 
 <!-- Closing waving footer banner -->
-![Footer](https://capsule-render.com/api?type=waving&color=7dd3fc&height=120&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=120&section=footer)
